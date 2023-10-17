@@ -1,0 +1,4 @@
+# ninja log v5
+4	279	7192405260483022	build.ninja	efc653b3db5c6c83
+1	1698	7192405279134827	CMakeFiles/server.dir/client.c.obj	46bacffd01ec9203
+1704	1851	7192405280646905	server.exe	ea48c3d1669b48ea
